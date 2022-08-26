@@ -17,7 +17,7 @@ Añadimos categoría de "primary key" y relaciones con "foreign key"
 Corregimos columna que daba problemas de compatibilidad
 --------------------------------------------------------------------      
 Creamos tabla "old_hdd" por sustitución por "filmactor"
---------------------------------------------------------------------
+
 --------------------------------------------------------------------
 Tiramos queries para comprobar el buen funcionamiento de la BBDD:
 --------------------------------------------------------------------
