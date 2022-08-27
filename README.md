@@ -1,6 +1,9 @@
 # Proyecto-BBDD-SQL
 En este repositorio se irán subiendo los documentos relativos al proyecto de creación de una base de datos en SQL.
 
+Exploramos y limpiamos datos con Python, Pandas y DataFrames
+--------------------------------------------------------------------
+Exportamos a SQL
 --------------------------------------------------------------------
 Creamos columna para concatenar el nombre en tabla "actor"
 --------------------------------------------------------------------
