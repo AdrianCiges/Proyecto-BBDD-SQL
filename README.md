@@ -25,6 +25,7 @@ Creamos tabla "old_hdd" por sustitución por "filmactor"
 Tiramos queries para comprobar el buen funcionamiento de la BBDD:
 --------------------------------------------------------------------
 ¿Cuáles son los 10 actores con más películas de rating "R"?
+![image](https://user-images.githubusercontent.com/109532909/187027815-0f5157a5-5863-4b5b-880d-17cf2485b584.png)
 --------------------------------------------------------------------
 ¿Cuáles son las 10 pelis de "rental duration" > 5 con más actores?
 --------------------------------------------------------------------
