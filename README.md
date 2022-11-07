@@ -20,6 +20,7 @@
 
 &emsp; &emsp; &emsp; ❌ Eliminamos columnas con nulos. <br />
 &emsp; &emsp; &emsp; ❌ Eliminamos columnas con valores constantes (pero si queremos escalar el proyecto, deberemos reconsiderar su eliminación): <br />
+
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 🗑️ 'last_update' en todas las tablas (dato constante). <br />
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 🗑️ 'release_year' en df_FILM. <br />
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 🗑️ 'original_language_id' en df_FILM.  <br />
@@ -46,29 +47,29 @@
 
 
 ## 4 - QUERIES DE COMPROBACIÓN 🤔 <a name="QC"/>
-### Tiramos queries para comprobar el buen funcionamiento de la BBDD
+##### Tiramos queries para comprobar el buen funcionamiento de la BBDD
 
-❓ ¿Cuáles son los 10 actores con más películas de rating "R"?
+### ❓ ¿Cuáles son los 10 actores con más películas de rating "R"?
 
 ![image](https://user-images.githubusercontent.com/109532909/187027815-0f5157a5-5863-4b5b-880d-17cf2485b584.png)
 
-❓ ¿Cuáles son las 10 pelis de "rental duration" > 5 con más actores?
+### ❓ ¿Cuáles son las 10 pelis de "rental duration" > 5 con más actores?
 
 ![image](https://user-images.githubusercontent.com/109532909/187027861-0c2b892c-5d3f-495b-811c-a9cdae59cc5d.png)
 
-❓ ¿Cuáles son las 10 pelis de mayor duración sin actores y rate >  4?
+### ❓ ¿Cuáles son las 10 pelis de mayor duración sin actores y rate >  4?
 
 ![image](https://user-images.githubusercontent.com/109532909/187027866-703a4a13-1d9f-4624-bcee-e8ce3c9ead3c.png)
 
-❓ ¿Cuáles son las mejores pelis de horror (rate 4+) de +120 min?
+### ❓ ¿Cuáles son las mejores pelis de horror (rate 4+) de +120 min?
 
 ![image](https://user-images.githubusercontent.com/109532909/187027873-3680ee65-3ce7-4ac2-8b69-b5c76db210e8.png)
 
-❓ ¿Cuáles son las comedias inglesas con menos actores?
+### ❓ ¿Cuáles son las comedias inglesas con menos actores?
 
 ![image](https://user-images.githubusercontent.com/109532909/187027878-4bfb2583-d823-48a7-a503-ead38c5f0536.png)
 
-❓ ¿Cuáles son las categorías con más películas?
+### ❓ ¿Cuáles son las categorías con más películas?
 
 ![image](https://user-images.githubusercontent.com/109532909/187027884-242bf1d1-3281-46db-bf37-fbea79412e7c.png)
 
