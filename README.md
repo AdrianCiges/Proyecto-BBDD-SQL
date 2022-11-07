@@ -19,11 +19,13 @@
 🧼 Limpiamos los datos con Pandas a partir de DataFrames: <br />
 
 &emsp; &emsp; &emsp; ❌ Eliminamos columnas con nulos. <br />
-&emsp; &emsp; &emsp; ❌ Eliminamos columnas con valores constantes (pero si queremos escalar el proyecto, deberemos reconsiderar su eliminación): <br />
+&emsp; &emsp; &emsp; ❌ Eliminamos columnas con valores constantes: <br />
 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 🗑️ 'last_update' en todas las tablas (dato constante). <br />
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 🗑️ 'release_year' en df_FILM. <br />
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 🗑️ 'original_language_id' en df_FILM.  <br />
+
+&emsp; &emsp; &emsp; ❗ Si queremos escalar el proyecto, deberemos reconsiderar su eliminación.
 
 ⤴️ Exportamos a SQL. <br />
 
